@@ -1,5 +1,3 @@
-# Create the content for the README.md file line by line to avoid syntax errors
-
 # Open the file in write mode
 with open('README.md', 'w') as f:
     # Write the Project Overview section
